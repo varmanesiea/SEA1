@@ -1,0 +1,16 @@
+# SYS4041 TPs – Dépôt
+
+## Pour commencer
+
+### Votre équipe
+
+**Membres :**
+- Nicolas PEREZ
+- Sadek Madani-Friedlander
+- Naim AIT-TABET
+- Varman RAVEENDRAN
+
+### Vos livrables
+
+- **Rapport** : [Lien vers le rapport](https://etesiea-my.sharepoint.com/:w:/g/personal/ait-tabet_et_esiea_fr/IQCHaU_SVGpJTrf2r3K-AuckAWXinRuxNHuJsr37LgbPGrk?e=NDMZAm)
+- **Vidéos de démonstration** : [Lien vers les vidéos](https://drive.google.com/drive/folders/1R3U9NkByNJtK7lWIyZXjSrTq2Vz5zq1d?usp=drive_link)
